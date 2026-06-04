@@ -100,7 +100,7 @@ Leave **Voicemail VM1** below, then immediately send **Template W4** on WhatsApp
 
 1. **Smile while you talk**  it genuinely makes your voice sound friendlier (sounds weird, but it works)
 2. **Don't read robotically**  pause naturally, like a real conversation
-3. **If they sound sleepy or rushed**  acknowledge it: *"I can tell you're busy — this will only take a second!"*
+3. **If they sound sleepy or rushed**  acknowledge it: *"I can tell you're busy  this will only take a second!"*
 4. **Never argue**  if a candidate is rude, stay calm and end the call politely
 5. **No background noise**  find a quiet spot before calling
 6. **Call between 10 AM-12 PM and 2 PM-5 PM**  these are peak pickup times in India. Avoid calling during lunch (1-2 PM) and after 7 PM
