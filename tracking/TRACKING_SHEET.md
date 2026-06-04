@@ -58,7 +58,7 @@ These are the only accepted values. Do not type freehand  use the dropdown.
 | `Call - No Answer` | Called, no pickup |
 | `Call - Declined` | Candidate declined the interview on the call |
 | `Voicemail Left` | Voicemail message left |
-| `Scheduled` | Calendly slot booked ✅ |
+| `Scheduled` | Calendly slot booked  |
 | `Cancelled - Re-outreach` | Candidate booked and then cancelled |
 | `Stalled` | No response after full sequence, still trying |
 | `Escalated` | Handed off to senior |
@@ -75,7 +75,7 @@ These are the only accepted values. Do not type freehand  use the dropdown.
 
 | Final Status | Meaning |
 |---|---|
-| `Scheduled` | Successfully booked ✅ |
+| `Scheduled` | Successfully booked  |
 | `Declined` | Candidate said no |
 | `Escalated` | Senior took over |
 | `Unresponsive` | No response after 48 hrs |
