@@ -4,7 +4,7 @@
 
 ---
 
-## Category 1 — Candidate Communication Problems
+## Category 1 - Candidate Communication Problems
 
 ### EC-01: Candidate doesn't have WhatsApp
 
@@ -16,7 +16,7 @@
 3. If no response by 2 PM, make a phone call
 4. Update sheet: `No WA - SMS+Email+Call sequence`
 
-**Note:** About 5–10% of candidates may not use WhatsApp. Don't waste time waiting — move to SMS + call immediately.
+**Note:** About 5-10% of candidates may not use WhatsApp. Don't waste time waiting - move to SMS + call immediately.
 
 ---
 
@@ -25,7 +25,7 @@
 **How you know:** WhatsApp shows an error, or call says "number doesn't exist" or "not reachable."
 
 **What to do:**
-1. Try the email first — sometimes the phone is wrong but email is right
+1. Try the email first - sometimes the phone is wrong but email is right
 2. Check if there's an alternate phone number in the sheet
 3. If email also bounces → update status to `Invalid Contact Info`, flag to senior
 4. Senior will reach out to the company to verify candidate details
@@ -39,11 +39,11 @@
 **How you know:** You can no longer see their profile picture, and messages show one tick only.
 
 **What to do:**
-1. Don't panic — this happens rarely
+1. Don't panic  this happens rarely
 2. Send an email with a calm, professional message (**Template E3**)
 3. Make one phone call
 4. If still no response, mark status `Unresponsive - Escalated` and notify senior
-5. Do NOT create a second WhatsApp number to contact them — that's not okay
+5. Do NOT create a second WhatsApp number to contact them  that's not okay
 
 ---
 
@@ -52,8 +52,8 @@
 **What to do:**
 1. Copy their message into Google Translate
 2. Reply in English (keep it simple)
-3. If they seem to not understand English, note in sheet: `Language barrier — needs Hindi/regional support`
-4. Escalate to senior — they may have a Hindi-speaking team member
+3. If they seem to not understand English, note in sheet: `Language barrier - needs Hindi/regional support`
+4. Escalate to senior - they may have a Hindi-speaking team member
 
 ---
 
@@ -63,7 +63,7 @@
 1. Check the Calendly dashboard (ask your senior for access if you don't have it)
 2. If booking is confirmed → update status to `Scheduled - Self`, note the time
 3. If you can't find the booking → ask them to share a screenshot or confirmation email
-4. Don't take their word without verifying — sometimes people say this to avoid the conversation
+4. Don't take their word without verifying  sometimes people say this to avoid the conversation
 
 ---
 
@@ -72,12 +72,12 @@
 **How you know:** They reply saying "link doesn't work" or you test it yourself and it fails.
 
 **What to do:**
-1. Immediately flag to your senior — you need a new link from the company
-2. Tell the candidate: *"I'm getting you a fresh link right away — will send in 10 minutes"*
+1. Immediately flag to your senior  you need a new link from the company
+2. Tell the candidate: *"I'm getting you a fresh link right away - will send in 10 minutes"*
 3. Once you have the new link, re-send to the candidate
 4. Update sheet: note that the original link was broken
 
-**Time sensitivity:** This blocks the candidate from booking. Treat it as urgent — follow up with senior every 15 minutes until resolved.
+**Time sensitivity:** This blocks the candidate from booking. Treat it as urgent - follow up with senior every 15 minutes until resolved.
 
 ---
 
@@ -103,16 +103,16 @@
 
 ---
 
-## Category 2 — Calendly & Scheduling Problems
+## Category 2 - Calendly & Scheduling Problems
 
 ### EC-09: Calendly has no available slots for the next 7 days
 
 **How you know:** You open the link and there are no available times, or the candidate tells you.
 
 **What to do:**
-1. Flag to senior immediately — "Company X's Calendly is full for [Name] and [Name]"
-2. Do NOT tell the candidate "there are no slots" — this might make them lose interest
-3. Tell them: *"The calendar is updating right now — I'll send you a fresh link by [time]"*
+1. Flag to senior immediately - "Company X's Calendly is full for [Name] and [Name]"
+2. Do NOT tell the candidate "there are no slots" - this might make them lose interest
+3. Tell them: *"The calendar is updating right now - I'll send you a fresh link by [time]"*
 4. Update sheet status: `Waiting - No Slots`, note the company name
 5. Senior will contact the company to open more slots
 
@@ -133,7 +133,7 @@
 ### EC-11: Candidate books and then immediately cancels
 
 **What to do:**
-1. Send **Template W6** — a short, friendly message asking why they cancelled and offering to help them reschedule
+1. Send **Template W6**- a short, friendly message asking why they cancelled and offering to help them reschedule
 2. Do NOT assume they're no longer interested
 3. If they respond with a reason → accommodate and re-send link
 4. If no response in 4 hours → call them
@@ -155,13 +155,13 @@
 
 ---
 
-## Category 3 — Candidate Refuses or Stalls
+## Category 3 - Candidate Refuses or Stalls
 
 ### EC-13: Candidate says "I'm busy this week, call me next week"
 
 **What to do:**
-1. This does NOT mean they're not interested — they're just busy
-2. Reply: *"No problem at all! The Calendly link works for [next week dates] too — feel free to pick whenever works best for you. Slots tend to fill up so picking one now would secure your spot!"*
+1. This does NOT mean they're not interested - they're just busy
+2. Reply: *"No problem at all! The Calendly link works for [next week dates] too - feel free to pick whenever works best for you. Slots tend to fill up so picking one now would secure your spot!"*
 3. Set a reminder for yourself to follow up 2 days later
 4. Update status: `Pending - Busy This Week`, add follow-up date in "Next Contact" column
 
@@ -170,7 +170,7 @@
 ### EC-14: Candidate says "I'll do it later" repeatedly
 
 **After 3 "I'll do it later" responses:**
-1. One final message: *"Hi [Name], just want to make sure you don't miss this opportunity — the team at [Company] is specifically interested in your profile. Once these slots fill up, there won't be another window soon. Here's the link one last time: [link]. Let me know if you need any help!"*
+1. One final message: *"Hi [Name], just want to make sure you don't miss this opportunity  the team at [Company] is specifically interested in your profile. Once these slots fill up, there won't be another window soon. Here's the link one last time: [link]. Let me know if you need any help!"*
 2. If still no response after 24 hours → mark `Stalled - Escalated`, notify senior
 3. Senior decides whether to keep chasing or close the request
 
@@ -182,7 +182,7 @@
 1. Do NOT try to convince them
 2. Respond: *"Completely understood! No worries at all. If you change your mind, feel free to reach out. Wishing you all the best!"*
 3. Update status: `Declined - Not Interested`
-4. Notify senior immediately — the company needs to know this candidate is no longer available
+4. Notify senior immediately - the company needs to know this candidate is no longer available
 
 ---
 
@@ -191,16 +191,16 @@
 **What to do:**
 1. Congratulate them sincerely
 2. Update status: `Declined - Got Other Offer`
-3. Notify senior — this is a lost candidate and the company should know
+3. Notify senior - this is a lost candidate and the company should know
 
 ---
 
-## Category 4 — Internal / System Problems
+## Category 4 - Internal / System Problems
 
 ### EC-17: The tracking sheet is down / can't access it
 
 **What to do:**
-1. Open the Google Sheet app on your phone — often works even if desktop is down
+1. Open the Google Sheet app on your phone - often works even if desktop is down
 2. Work offline: keep a notepad/notes app with the candidates you contacted and update the sheet when it's back
 3. Message your partner to let them know
 4. Do NOT stop working just because the sheet is down
@@ -210,9 +210,9 @@
 ### EC-18: You accidentally contacted the wrong candidate with the wrong company's Calendly link
 
 **What to do:**
-1. Send a correction message immediately: *"Hi [Name], my apologies — I sent you the wrong link by mistake! Please ignore that. Here's the correct link for [Company]: [correct link]"*
+1. Send a correction message immediately: *"Hi [Name], my apologies - I sent you the wrong link by mistake! Please ignore that. Here's the correct link for [Company]: [correct link]"*
 2. Make a note in the sheet
-3. If the candidate already booked on the wrong link — notify senior urgently so the company can cancel that booking
+3. If the candidate already booked on the wrong link - notify senior urgently so the company can cancel that booking
 
 ---
 
@@ -221,7 +221,7 @@
 **How to prevent:** Always check "Assigned To" before contacting anyone.
 
 **If it already happened:**
-1. One of you sends an apology: *"Hi [Name], sorry for the double message — our team was syncing up. You only need to respond to one message!"*
+1. One of you sends an apology: *"Hi [Name], sorry for the double message - our team was syncing up. You only need to respond to one message!"*
 2. Decide which one of you owns that candidate going forward (whoever messaged first)
 3. The other updates their sheet to show the correct owner
 
@@ -236,14 +236,14 @@
 
 ---
 
-## Category 5 — Rare but High-Stakes
+## Category 5 - Rare but High-Stakes
 
 ### EC-21: Candidate is upset / complains about being contacted too much
 
 **What to do:**
-1. Apologize immediately: *"Hi [Name], I'm really sorry for the inconvenience — I completely understand. I won't reach out again. Best of luck!"*
+1. Apologize immediately: *"Hi [Name], I'm really sorry for the inconvenience - I completely understand. I won't reach out again. Best of luck!"*
 2. Update status: `Do Not Contact`
-3. Notify senior — they may want to review the outreach frequency
+3. Notify senior - they may want to review the outreach frequency
 
 ---
 
@@ -251,7 +251,7 @@
 
 **What to do:**
 1. Show empathy. Do not push the scheduling.
-2. Reply: *"Hi [Name], I'm so sorry to hear that. Please take care — the interview can wait. I'll reach back in a week when things settle down. Wishing you a speedy recovery / strength during this time."*
+2. Reply: *"Hi [Name], I'm so sorry to hear that. Please take care - the interview can wait. I'll reach back in a week when things settle down. Wishing you a speedy recovery / strength during this time."*
 3. Update status: `On Hold - Personal`, note the reason
 4. Set a follow-up reminder for 7 days later
 5. Notify senior so they can inform the company
