@@ -1,8 +1,8 @@
 # Weekday Scheduling Assignment — Submission
 
-**Submitted by:** [Your Name]  
+**Submitted by:** [VARRI SNEHA]  
 **Date:** June 4, 2026  
-**Assignment:** Build a scheduling system as strong as Zomato's — a ToDo playbook for interns Ram and Shyam to schedule 500+ interviews/day via Calendly, with 80% done within 24 hours.
+**Assignment:** Build a scheduling system as strong as Zomato's  a ToDo playbook for interns Ram and Shyam to schedule 500+ interviews/day via Calendly, with 80% done within 24 hours.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### What we're actually solving
 
-Every day, 100 companies send 500+ Calendly links expecting us to get their candidates to book. The candidates have already said yes to the interview. The ONLY job is to get them to click the link and pick a slot. That sounds simple. It isn't — because people are unpredictable.
+Every day, 100 companies send 500+ Calendly links expecting us to get their candidates to book. The candidates have already said yes to the interview. The ONLY job is to get them to click the link and pick a slot. That sounds simple. It isn't  because people are unpredictable.
 
 The real problem is not logistics. It's **human behaviour under low urgency**. The candidate agreed days ago, has probably forgotten, and now has zero incentive to act immediately. Our job is to create that urgency without being annoying.
 
@@ -43,7 +43,7 @@ The real problem is not logistics. It's **human behaviour under low urgency**. T
 
 1. **Candidates are in India (IST)** — WhatsApp is the highest-engagement channel, followed by phone, then email.
 2. **Working hours are 9 AM – 7 PM IST** — 10-hour window. Evening follow-ups matter because candidates are more responsive after 5 PM.
-3. **Each "request" = one candidate + one Calendly link from one company** — Companies provide the link; we provide it to the candidate.
+3. **Each "request" = one candidate + one Calendly link from one company** _ Companies provide the link; we provide it to the candidate.
 4. **Candidates have a mobile number and email on file** — Weekday already has this from the initial application.
 5. **"Scheduled within 24 hrs" = the slot is booked on Calendly** — Not that the interview happened, just that it's on the calendar.
 6. **Ram and Shyam have phones with WhatsApp** and can make calls.
@@ -58,7 +58,7 @@ The real problem is not logistics. It's **human behaviour under low urgency**. T
 
 ### Why WhatsApp First (Not Email)
 
-In India, email open rates hover around 20–25%. WhatsApp open rates are 90%+. If we lead with email, we lose 75% of candidates in the first touch. WhatsApp also shows "read" receipts — we know within minutes if someone saw our message.
+In India, email open rates hover around 20–25%. WhatsApp open rates are 90%+. If we lead with email, we lose 75% of candidates in the first touch. WhatsApp also shows "read" receipts  we know within minutes if someone saw our message.
 
 **Decision:** First outreach is always WhatsApp + Email simultaneously. Phone call only if no WhatsApp response in 2 hours.
 
@@ -66,7 +66,7 @@ In India, email open rates hover around 20–25%. WhatsApp open rates are 90%+. 
 
 Two options were considered:
 - **Option A:** Ram handles morning requests, Shyam handles afternoon
-- **Option B:** Ram handles Companies 1–50, Shyam handles Companies 51–100
+- **Option B:** Ram handles Companies 1-50, Shyam handles Companies 51–100
 
 Option A creates a handoff problem. If a candidate first contacted by Ram at 10 AM doesn't respond until 4 PM, does Shyam now own it? Confusion = dropped candidates.
 
@@ -78,13 +78,13 @@ Without a defined follow-up schedule, interns either:
 - Follow up too aggressively (spamming candidates = bad for Weekday's brand)
 - Follow up too loosely (candidates forget again)
 
-**Decision:** Fixed sequence — T+0 (first contact), T+2hrs (if unread on WhatsApp), T+4hrs (call), T+24hrs (second round). Interns follow this like a clock. No improvisation needed.
+**Decision:** Fixed sequence : T+0 (first contact), T+2hrs (if unread on WhatsApp), T+4hrs (call), T+24hrs (second round). Interns follow this like a clock. No improvisation needed.
 
 ### The "Soft Deadline" Technique
 
 Candidates respond faster when they believe slots are running out. Every message includes a subtle urgency signal:
 
-> "The company has limited slots this week — the link expires in 24 hours if not booked."
+> "The company has limited slots this week  the link expires in 24 hours if not booked."
 
 This is truthful (Calendly slots DO fill up) and effective without being dishonest.
 
@@ -106,12 +106,12 @@ This "wave" approach means interns aren't context-switching every few minutes.
 
 | | Ram | Shyam |
 |---|---|---|
-| **Companies owned** | Companies 1–50 (A–M alphabetically) | Companies 51–100 (N–Z alphabetically) |
+| **Companies owned** | Companies 1–50 (A–M alphabetically) | Companies 51–100 (N-Z alphabetically) |
 | **Candidates/day** | ~250 | ~250 |
 | **Primary channel** | WhatsApp + Email | WhatsApp + Email |
 | **Escalation calls** | Calls for his own candidates | Calls for his own candidates |
 | **Backup role** | Covers Shyam's calls if Shyam is unavailable | Covers Ram's calls if Ram is unavailable |
-| **Sheet columns** | Columns A–H | Columns I–P (or separate tab) |
+| **Sheet columns** | Columns A–H | Columns I-P (or separate tab) |
 
 ### Daily Sync
 
@@ -121,7 +121,7 @@ This "wave" approach means interns aren't context-switching every few minutes.
 
 ### Escalation to Senior
 
-If any candidate reaches **T+36 hours** with no booking, Ram/Shyam flags them in the sheet (red highlight) and messages the senior on duty. They don't keep chasing — that's not their job.
+If any candidate reaches **T+36 hours** with no booking, Ram/Shyam flags them in the sheet (red highlight) and messages the senior on duty. They don't keep chasing that's not their job.
 
 ---
 
