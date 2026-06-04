@@ -125,7 +125,7 @@
 **What to do:**
 1. Whoever has the earlier booking confirmation wins
 2. For the second candidate: apologize and re-send the Calendly link to pick a different time
-3. Message: *"Hi [Name], that slot just got taken — the link is still live and has other options. Please grab another slot as soon as you can!"*
+3. Message: *"Hi [Name], that slot just got taken - the link is still live and has other options. Please grab another slot as soon as you can!"*
 4. Update sheets for both candidates accordingly
 
 ---
