@@ -1,6 +1,6 @@
 # Tracking Sheet Structure
 
-> This document defines the Google Sheet structure that Ram and Shyam use to track all 500+ daily requests. Make a copy of this sheet every day — one sheet per day.
+> This document defines the Google Sheet structure that Ram and Shyam use to track all 500+ daily requests. Make a copy of this sheet every day  one sheet per day.
 
 ---
 
@@ -43,7 +43,7 @@ Example: `Scheduling_Tracker_2026-06-04`
 
 ## Status Dropdown Values (Column J)
 
-These are the only accepted values. Do not type freehand — use the dropdown.
+These are the only accepted values. Do not type freehand  use the dropdown.
 
 | Status | Meaning |
 |---|---|
@@ -124,7 +124,7 @@ This flags any unscheduled candidate who is within 4 hours of the 24-hour deadli
 
 ---
 
-## Summary Tab — KPIs to Track Daily
+## Summary Tab - KPIs to Track Daily
 
 | Metric | Target | Formula |
 |---|---|---|
@@ -141,8 +141,8 @@ This flags any unscheduled candidate who is within 4 hours of the 24-hour deadli
 
 ## Sheet Hygiene Rules
 
-1. **Update within 5 minutes of every action** — stale data breaks the system
-2. **Never delete rows** — mark as invalid instead
+1. **Update within 5 minutes of every action** - stale data breaks the system
+2. **Never delete rows** - mark as invalid instead
 3. **Never change a colleague's rows without telling them**
 4. **Freeze rows 1 and 2** (header + filter row)
 5. **Sort by "Date Received" ascending** at start of day
